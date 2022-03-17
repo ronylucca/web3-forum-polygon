@@ -1,7 +1,7 @@
 <p>
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img alt="Tailwind.css" src="https://img.shields.io/badge/-Tailwindcss-0B2035?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  
+<img alt="Wagmi" src="https://img.shields.io/badge/-Wagmi-D863FF?style=for-the-badge&logo=wagmi&logoColor=38BDF8" />
+<img alt="ChakraUI" src="https://img.shields.io/badge/-Chakraui-3AC7BD?style=for-the-badge&logo=chakraui&logoColor=white" />  
 <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 <img alt="HardHat" src="https://img.shields.io/badge/-Hardhat-7C86C7?style=for-the-badge&logo=hardhat&logoColor=white" />
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=for-the-badge&logo=solidity&logoColor=363636" />
