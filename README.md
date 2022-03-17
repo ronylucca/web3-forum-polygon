@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img alt="Wagmi" src="https://img.shields.io/badge/-Wagmi-D863FF?style=for-the-badge&logo=wagmi&logoColor=38BDF8" />
 <img alt="ChakraUI" src="https://img.shields.io/badge/-Chakraui-3AC7BD?style=for-the-badge&logo=chakraui&logoColor=white" />  
