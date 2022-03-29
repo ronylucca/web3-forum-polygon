@@ -1,8 +1,5 @@
 const{ expect } = require("chai");
-const { Item } = require("framer-motion/types/components/Reorder/Item");
-const { expectsResolvedDragConstraints } = require("framer-motion/types/gestures/drag/VisualElementDragControls");
 const{ ethers } = require("hardhat");
-const { isTypedArray } = require("util/types");
 
 describe("Comments", function(){
     it("Shoud add and fetch successfully", async function(){
